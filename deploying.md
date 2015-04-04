@@ -1,0 +1,3 @@
+# Deploying
+
+Use Digital Ocean.
