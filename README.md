@@ -1,6 +1,6 @@
 # Concrete Dev Docs
 
-*Don't be a dumbass.*
+*S.O.P. for better code and processes.  Opposition welcomed.*
 
 
 ## Table of Contents
